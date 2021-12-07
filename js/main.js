@@ -24,7 +24,7 @@ function firstQuestion(){
         text: CONFIG.introDesc,
 
         // 2. Ảnh ở câu hỏi đầu tiên
-        imageUrl: 'img/anh1.gif',
+        imageUrl: 'img/mdts.gif',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff linear-gradient( 310deg, #7928ca 0%, #ff0080 100%)',
